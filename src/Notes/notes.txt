@@ -1,0 +1,18 @@
+How to detect if the patient has diabetic retinopathy:
+1. Abnormal growth of blood vessles. (many times these are smaller than the normal ones)
+2. Hard Exudates - lipid which comes out of retina capillaries
+                   lipid - fatty acids which are soluble in orgaic solvents
+                   organic solvents - compunds which has dissolving capabilities and which has carbon contents.
+3. Cotton wool spots - again bright as hard exudates but they are less bright and less in quantity.
+4. Thickness of blood vessels at some random points.
+5. Spilling of blood from the blood vessels.
+ 
+
+Link which lead to preprocssing using bens-cropping : 
+https://www.kaggle.com/ratthachat/aptos-updatedv14-preprocessing-ben-s-cropping
+
+One of the link which has uses cnn using keras : ( Its private score is greater than public score which is not bad)
+https://www.kaggle.com/nivedas/densenet121-fully-trained-network 
+
+
+
