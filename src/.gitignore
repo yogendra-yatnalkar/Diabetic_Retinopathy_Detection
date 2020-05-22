@@ -19,9 +19,9 @@ instance/
 .webassets-cache
 
 # Editors
-.vscode/
+../.vscode
 .idea/
 
 # Custom data directory
 uploads/*
-webapp/
+webapp/models/*.h5
