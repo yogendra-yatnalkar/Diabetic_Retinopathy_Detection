@@ -24,6 +24,7 @@
 
 ## How to run this porject:
 > **The major directory of this project is : Diabetic_Retinopathy_Detection/src/webapp/**
+
 > **The webapp is the interface to the ensembled model.**
 
 - ### Note : Python 3.7.6 is used for this project
