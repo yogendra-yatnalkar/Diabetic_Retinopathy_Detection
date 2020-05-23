@@ -3,15 +3,15 @@
 
 #### Project Description:
 
-This project involves classification of a fundus image into DR class using CNN. 
-Total 4 CNN models are trained as considering this problem as **multi-label** classification and **ensembled**.
-Each model is fine-tuned on **EfficientNet**.
-The data is collected from kaggle competition: link :>
+- This project involves classification of a fundus image into DR class using CNN. 
+- Total 4 CNN models are trained as considering this problem as **multi-label** classification and **ensembled**.
+- Each model is fine-tuned on **EfficientNet**.
+- The data is collected from kaggle competition: link :>
 >https://www.kaggle.com/c/aptos2019-blindness-detection
-Each model has _private score_ of kaggle of above **90%**.
-The _validation accuracy_ after **ensembling** is **93%**.
-The web-application is made using **flask**.
-Technology used: **Keras with Tensorflow backend**
+- Each model has _private score_ of kaggle of above **90%**.
+- The _validation accuracy_ after **ensembling** is **93%**.
+- The web-application is made using **flask**.
+- Technology used: **Keras with Tensorflow backend**
 >Tensorflow version 2 is used
 
 #### The below link will redirect you to a video which is a detailed explanation of the project:>
