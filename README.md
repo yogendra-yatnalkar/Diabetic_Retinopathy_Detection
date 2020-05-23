@@ -1,10 +1,16 @@
 # **_Diabetic Retinopathy Detection_**
 > Info about this disease at the bottom
+> Please see the video for complete project explanation
+
+#### The below video link will redirect to a detailed explanation of this project:>
+>**https://1drv.ms/v/s!Avx3FKuC_L2VsklTF9VyDYxqUDRG**<
+
+# ------------------------------------------------------
 
 #### Project Description:
 
 - This project involves classification of a fundus image into DR class using CNN. 
-- Total 4 CNN models are trained as considering this problem as **multi-label** classification and **ensembled**.
+- Total 4 CNN models are trained, considering this problem as **multi-label** classification and **ensembled**.
 - Each model is fine-tuned on **EfficientNet**.
 - The data is collected from kaggle competition: link :>
 >https://www.kaggle.com/c/aptos2019-blindness-detection<
@@ -12,10 +18,7 @@
 - The _validation accuracy_ after **ensembling** is **93%**.
 - The web-application is made using **flask**.
 - Technology used: **Keras with Tensorflow backend**
->Tensorflow version 2 is used
-
-#### The below link will redirect you to a video which is a detailed explanation of the project:>
->https://1drv.ms/v/s!Avx3FKuC_L2VsklTF9VyDYxqUDRG
+>Tensorflow version 2 is used<
 
 # ------------------------------------------------------
 
