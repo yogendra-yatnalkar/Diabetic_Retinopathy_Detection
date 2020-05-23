@@ -13,7 +13,7 @@
 - Total 4 CNN models are trained, considering this problem as **multi-label** classification and **ensembled**.
 - Each model is fine-tuned on **EfficientNet**.
 - The data is collected from kaggle competition: link :>
->https://www.kaggle.com/c/aptos2019-blindness-detection<
+>https://www.kaggle.com/c/aptos2019-blindness-detection  
 - Each model has _private score_ of kaggle of above **90%**.
 - The _validation accuracy_ after **ensembling** is **93%**.
 - The web-application is made using **flask**.
@@ -23,8 +23,8 @@
 # ------------------------------------------------------
 
 ## How to run this porject:
-> **The major directory of this project is : Diabetic_Retinopathy_Detection/src/webapp/**<
-> **The webapp is the interface to the ensembled model.**<
+> **The major directory of this project is : Diabetic_Retinopathy_Detection/src/webapp/**
+> **The webapp is the interface to the ensembled model.**
 
 - ### Note : Python 3.7.6 is used for this project
 
