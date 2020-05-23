@@ -18,12 +18,12 @@
 - The _validation accuracy_ after **ensembling** is **93%**.
 - The web-application is made using **flask**.
 - Technology used: **Keras with Tensorflow backend**
->Tensorflow version 2 is used<
+>Tensorflow version 2 is used
 
 # ------------------------------------------------------
 
 ## How to run this porject:
-> **The major directory of this project is : Diabetic_Retinopathy_Detection/src/webapp/**
+> **The final code directory of this project is : Diabetic_Retinopathy_Detection/src/webapp/**
 
 > **The webapp is the interface to the ensembled model.**
 
