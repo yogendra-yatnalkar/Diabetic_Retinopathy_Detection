@@ -1,6 +1,12 @@
-# How to run :
+# How to run this webapplication :
+### Note: 
+>Proceed only if you have downloaded the models
 
-## Open the terminal and run app.py to start the web-application
-
-## See the application at :>
-# localhost:33
+#### Open the terminal and run app.py to start the web-application
+>Command : python app.py
+ 
+#### See the application at :>
+>(Open your browser and type in the url)
+- **localhost:33** 
+or
+- **127.0.0.1:33**
