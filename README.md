@@ -7,7 +7,7 @@
 - Total 4 CNN models are trained as considering this problem as **multi-label** classification and **ensembled**.
 - Each model is fine-tuned on **EfficientNet**.
 - The data is collected from kaggle competition: link :>
->https://www.kaggle.com/c/aptos2019-blindness-detection
+>https://www.kaggle.com/c/aptos2019-blindness-detection<
 - Each model has _private score_ of kaggle of above **90%**.
 - The _validation accuracy_ after **ensembling** is **93%**.
 - The web-application is made using **flask**.
@@ -17,7 +17,7 @@
 #### The below link will redirect you to a video which is a detailed explanation of the project:>
 >https://1drv.ms/v/s!Avx3FKuC_L2VsklTF9VyDYxqUDRG
 
-# ------------------------------------------------------------------------------------------------------------------------------
+# ------------------------------------------------------
 
 ## How to run this porject:
 > The major directory of this project is : Diabetic_Retinopathy_Detection/src/webapp/
@@ -36,7 +36,7 @@
 - #### Now run the webapplication:
 > **Follow Diabetic_Retinopathy_Detection/src/webapp/README.md**
 
-# ------------------------------------------------------------------------------------------------------------------------------
+# ------------------------------------------------------
 
 ## **About Diabetic Retinopathy**
 
@@ -52,7 +52,6 @@ PDR (proliferative diabetic retinopathy): PDR is the more advanced stage of diab
 
 Source : https://www.aao.org/eye-health/diseases/what-is-diabetic-retinopathy
 
-# ------------------------------------------------------------------------------------------------------------------------------
-
+# ------------------------------------------------------
 
 
