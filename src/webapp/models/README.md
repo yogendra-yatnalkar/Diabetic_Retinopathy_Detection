@@ -23,6 +23,6 @@
 #### Download:
 >the_greatestModel_collectb5.h5 
 #### and Rename to:
->**effb5_old_new_preprocess.h5**
+>**effb5_old_new.h5**
 
 # ------------------------------------------------------
