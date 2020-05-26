@@ -218,13 +218,13 @@ def load_b5():
 def load_b5_old():
     cnn_net = efn.EfficientNetB5(weights='imagenet',include_top=False,input_shape=(456, 456, 3))
     model = build_model(cnn_net)
-    model.load_weights('models/effnet_b5_old_new.h5')
+    model.load_weights('models/effb5_old_new.h5')
     return model
 
 def load_b5_prc():
     cnn_net = efn.EfficientNetB5(weights='imagenet',include_top=False,input_shape=(380, 380, 3))
     model = build_model(cnn_net)
-    model.load_weights('models/effnet_b5_old_new_preprocess.h5')
+    model.load_weights('models/effb5_old_new_preprocess.h5')
     return model
 
 # model_b4 = load_b4()
